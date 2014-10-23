@@ -1,0 +1,4 @@
+stty -F /dev/ttyS2 1200 clocal -crtscts
+echo -e '\033' >/dev/ttyS2
+sed -e 's/$/\r                              \r   /' <$1.bas >/dev/ttyS2
+echo -e '\r\n\003' >/dev/ttyS2
