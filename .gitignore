@@ -2,7 +2,6 @@ loadmem
 flap.lst
 flap.hex
 *.wav
-*.png
 flappy1.bas
 flappy2.bas
 flappy101.tgz
