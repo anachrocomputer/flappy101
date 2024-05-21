@@ -1,7 +1,7 @@
 # Flappy 101
 
-A simple game for the Compukit UK101. Written for Ludum Dare
-Mini-LD number 50: DEMAKE.
+A simple game for the Compukit UK101.
+Written for Ludum Dare Mini-LD \#50: DEMAKE in March 2014.
 
 ## Implementation
 
